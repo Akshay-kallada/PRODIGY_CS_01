@@ -13,8 +13,8 @@ A Python program that encrypts and decrypts text using the Caesar Cipher algorit
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/yourusername/caesar-cipher.git
-cd caesar-cipher
+git clone https://github.com/Akshay-kallada/PRODIGY_CS_01.git
+cd PRODIGY_CS_01
 ```
 
 ## 🛠 Usage
